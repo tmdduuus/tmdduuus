@@ -34,6 +34,7 @@
 	<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white" />
   <img src="https://img.shields.io/badge/amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
   <img src="https://img.shields.io/badge/amazon%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" />
+	<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
