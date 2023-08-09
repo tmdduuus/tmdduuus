@@ -3,7 +3,7 @@
 <h4>Hi, I'm a backend developer!🖐️</h4>
 <br>
 <div align=center>
-  <p>❄ Sookmyung Women University ❄️</p>
+  <p>❄ Sookmyung Women's University ❄️</p>
   <p>Math & Computer Science</p>
 	<br>
 	<h3>📚 Tech Stack 📚</h3>
