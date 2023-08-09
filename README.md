@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#C2E59C&height=높이&section=header&text=SeungYeon&fontSize=30&height=400" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#C2E59C&height=400&section=header&text=SeungYeon&fontSize=30" />
 <!--
 **tmdduuus/tmdduuus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
