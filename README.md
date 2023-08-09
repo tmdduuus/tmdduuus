@@ -5,6 +5,7 @@
 <div align=center>
   <p>❄ Sookmyung Women University ❄️</p>
   <p>Math & Computer Science</p>
+	<br>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
@@ -38,6 +39,8 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
+	<br>
+	<br>
 </div>
 </div>
 <!--
