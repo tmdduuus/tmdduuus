@@ -4,7 +4,7 @@
 <br>
 <div align=center>
   <p>❄ Sookmyung Women's University ❄️</p>
-  <p>Major in Math & Computer Science</p>
+  <p>Double major in Math & Computer Science</p>
 	<br>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -15,8 +15,8 @@
 	<br>
   	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
-  	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
-	<img src="https://img.shields.io/badge/Mybatis-000000?style=fla-squaret&logo=Fluentd&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Springboot&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat-square&logo=Fluentd&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MySQL&logoColor=white" />
