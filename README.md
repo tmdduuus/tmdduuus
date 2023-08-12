@@ -4,7 +4,7 @@
 <br>
 <div align=center>
   <p>❄ Sookmyung Women's University ❄️</p>
-  <p>Math & Computer Science</p>
+  <p>Major in Math & Computer Science</p>
 	<br>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
